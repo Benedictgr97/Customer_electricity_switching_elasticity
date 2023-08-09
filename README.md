@@ -15,10 +15,12 @@ The aim is to understand the **Customer Elasticity coefficient** for a range of 
 
 ##Results 
 For data from the 06/23 and before the best **Customer Elasticity coefficients** are shown below:
-**Liquid fuels : 3100**
+
 | Metric                  | Customer Elasticity coefficient |
 |-------------------------|---------------------------------|
 | Liquid fuels            |     3100                        |
 | Gas                     |     2614                        |
 | inflation_index 23 days | -7388000                        |
 | Solid fuels 39 days     | -1754000                        |
+
+## .gov file locations
