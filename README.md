@@ -24,8 +24,8 @@ For data from the 06/23 and before the best **Customer Elasticity coefficients**
 | Solid fuels 39 days     | -1754000                        |
 
 ## .gov file locations
-[Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
-[Energy Prices](https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-stastics)
-[Inflation](https://www.ons.gov.uk/economy/inflationandpriceindices)
-[Customer switching](https://www.gov.uk/government/statistical-data-sets/quarterly-domestic-energy-switching-statistics)
-[Inflation](https://www.ons.gov.uk/economy/inflationandpriceindices)
+- [Pay (£)](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours)
+- [Energy Prices](https://www.gov.uk/government/statistical-data-sets/monthly-domestic-energy-price-stastics)
+- [Inflation](https://www.ons.gov.uk/economy/inflationandpriceindices)
+- [Customer switching](https://www.gov.uk/government/statistical-data-sets/quarterly-domestic-energy-switching-statistics)
+- [Inflation](https://www.ons.gov.uk/economy/inflationandpriceindices)
