@@ -1,9 +1,9 @@
 # Customer_electricity_switching_elasticity
 
 ## Overview
-The energy dispersive X-ray fluorescence (EDXRF) was used to determine the chemical composition of celadon body and glaze in Longquan kiln (at Dayao County) and Jingdezhen kiln. Forty typical shards in four cultural eras were selected to investigate the raw materials and firing technology.
+This project uses data from the .gov website, links below, to understand the movement energy customers dependent on a range of econmic factors.
 
-The aim is to deduce any groupings of glazings and body compositions to see if they were used over multiple eras or is certain techniques of production where era specific  
+The aim is to understand the **Customer Elasticity coefficient** for a range of factors and decide which ones are the best for a quick description of customer movement
 
 ## Methodology 
 1. Each metric was brought togethor at a month on month level from the .gov csv's.
